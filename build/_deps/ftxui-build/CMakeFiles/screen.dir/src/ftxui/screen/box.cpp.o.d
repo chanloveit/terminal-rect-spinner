@@ -1,0 +1,81 @@
+_deps/ftxui-build/CMakeFiles/screen.dir/src/ftxui/screen/box.cpp.o: \
+ /workspace/project/build/_deps/ftxui-src/src/ftxui/screen/box.cpp \
+ /mnt/usr/include/stdc-predef.h \
+ /workspace/project/build/_deps/ftxui-src/include/ftxui/screen/box.hpp \
+ /mnt/usr/include/c++/13/algorithm \
+ /mnt/usr/include/c++/13/bits/stl_algobase.h \
+ /mnt/usr/include/x86_64-linux-gnu/c++/13/bits/c++config.h \
+ /mnt/usr/include/x86_64-linux-gnu/c++/13/bits/os_defines.h \
+ /mnt/usr/include/features.h /mnt/usr/include/features-time64.h \
+ /mnt/usr/include/x86_64-linux-gnu/bits/wordsize.h \
+ /mnt/usr/include/x86_64-linux-gnu/bits/timesize.h \
+ /mnt/usr/include/x86_64-linux-gnu/sys/cdefs.h \
+ /mnt/usr/include/x86_64-linux-gnu/bits/long-double.h \
+ /mnt/usr/include/x86_64-linux-gnu/gnu/stubs.h \
+ /mnt/usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+ /mnt/usr/include/x86_64-linux-gnu/c++/13/bits/cpu_defines.h \
+ /mnt/usr/include/c++/13/pstl/pstl_config.h \
+ /mnt/usr/include/c++/13/bits/functexcept.h \
+ /mnt/usr/include/c++/13/bits/exception_defines.h \
+ /mnt/usr/include/c++/13/bits/cpp_type_traits.h \
+ /mnt/usr/include/c++/13/ext/type_traits.h \
+ /mnt/usr/include/c++/13/ext/numeric_traits.h \
+ /mnt/usr/include/c++/13/bits/stl_pair.h \
+ /mnt/usr/include/c++/13/type_traits /mnt/usr/include/c++/13/bits/move.h \
+ /mnt/usr/include/c++/13/bits/utility.h \
+ /mnt/usr/include/c++/13/bits/stl_iterator_base_types.h \
+ /mnt/usr/include/c++/13/bits/stl_iterator_base_funcs.h \
+ /mnt/usr/include/c++/13/bits/concept_check.h \
+ /mnt/usr/include/c++/13/debug/assertions.h \
+ /mnt/usr/include/c++/13/bits/stl_iterator.h \
+ /mnt/usr/include/c++/13/bits/ptr_traits.h \
+ /mnt/usr/include/c++/13/debug/debug.h \
+ /mnt/usr/include/c++/13/bits/predefined_ops.h \
+ /mnt/usr/include/c++/13/bit /mnt/usr/include/c++/13/bits/stl_algo.h \
+ /mnt/usr/include/c++/13/bits/algorithmfwd.h \
+ /mnt/usr/include/c++/13/initializer_list \
+ /mnt/usr/include/c++/13/bits/stl_heap.h \
+ /mnt/usr/include/c++/13/bits/uniform_int_dist.h \
+ /mnt/usr/include/c++/13/bits/stl_tempbuf.h /mnt/usr/include/c++/13/new \
+ /mnt/usr/include/c++/13/bits/exception.h \
+ /mnt/usr/include/c++/13/bits/stl_construct.h \
+ /mnt/usr/include/c++/13/cstdlib /mnt/usr/include/stdlib.h \
+ /mnt/usr/include/x86_64-linux-gnu/bits/libc-header-start.h \
+ /mnt/usr/lib/gcc/x86_64-linux-gnu/13/include/stddef.h \
+ /mnt/usr/include/x86_64-linux-gnu/bits/waitflags.h \
+ /mnt/usr/include/x86_64-linux-gnu/bits/waitstatus.h \
+ /mnt/usr/include/x86_64-linux-gnu/bits/floatn.h \
+ /mnt/usr/include/x86_64-linux-gnu/bits/floatn-common.h \
+ /mnt/usr/include/x86_64-linux-gnu/bits/types/locale_t.h \
+ /mnt/usr/include/x86_64-linux-gnu/bits/types/__locale_t.h \
+ /mnt/usr/include/x86_64-linux-gnu/sys/types.h \
+ /mnt/usr/include/x86_64-linux-gnu/bits/types.h \
+ /mnt/usr/include/x86_64-linux-gnu/bits/typesizes.h \
+ /mnt/usr/include/x86_64-linux-gnu/bits/time64.h \
+ /mnt/usr/include/x86_64-linux-gnu/bits/types/clock_t.h \
+ /mnt/usr/include/x86_64-linux-gnu/bits/types/clockid_t.h \
+ /mnt/usr/include/x86_64-linux-gnu/bits/types/time_t.h \
+ /mnt/usr/include/x86_64-linux-gnu/bits/types/timer_t.h \
+ /mnt/usr/include/x86_64-linux-gnu/bits/stdint-intn.h \
+ /mnt/usr/include/endian.h \
+ /mnt/usr/include/x86_64-linux-gnu/bits/endian.h \
+ /mnt/usr/include/x86_64-linux-gnu/bits/endianness.h \
+ /mnt/usr/include/x86_64-linux-gnu/bits/byteswap.h \
+ /mnt/usr/include/x86_64-linux-gnu/bits/uintn-identity.h \
+ /mnt/usr/include/x86_64-linux-gnu/sys/select.h \
+ /mnt/usr/include/x86_64-linux-gnu/bits/select.h \
+ /mnt/usr/include/x86_64-linux-gnu/bits/types/sigset_t.h \
+ /mnt/usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h \
+ /mnt/usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h \
+ /mnt/usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h \
+ /mnt/usr/include/x86_64-linux-gnu/bits/pthreadtypes.h \
+ /mnt/usr/include/x86_64-linux-gnu/bits/thread-shared-types.h \
+ /mnt/usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h \
+ /mnt/usr/include/x86_64-linux-gnu/bits/atomic_wide_counter.h \
+ /mnt/usr/include/x86_64-linux-gnu/bits/struct_mutex.h \
+ /mnt/usr/include/x86_64-linux-gnu/bits/struct_rwlock.h \
+ /mnt/usr/include/alloca.h \
+ /mnt/usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
+ /mnt/usr/include/c++/13/bits/std_abs.h \
+ /mnt/usr/include/c++/13/pstl/glue_algorithm_defs.h \
+ /mnt/usr/include/c++/13/pstl/execution_defs.h

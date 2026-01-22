@@ -1,0 +1,3 @@
+/mnt/workspace/project/build/_deps/ftxui-subbuild/CMakeFiles/ftxui-populate.dir
+/mnt/workspace/project/build/_deps/ftxui-subbuild/CMakeFiles/edit_cache.dir
+/mnt/workspace/project/build/_deps/ftxui-subbuild/CMakeFiles/rebuild_cache.dir
